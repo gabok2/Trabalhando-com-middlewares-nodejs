@@ -100,4 +100,4 @@ Esse middleware possui um funcionamento semelhante ao middleware `checksExistsUs
 
 ---
 
-Todos os demais testes são os mesmos testes encontrados no desafio 01 com algumas (ou nenhuma) mudanças.
+
